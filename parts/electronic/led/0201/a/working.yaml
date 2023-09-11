@@ -1,0 +1,52 @@
+classification: electronic
+color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_main: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/electronic_led_0201
+distributors: []
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0201_0603metric//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0201_0603metric
+    oomp_key: oomp_kicad_led_smd_led_0201_0603metric
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201/working
+id: electronic_led_0201
+id_no_class: led_0201
+id_no_type: '0201'
+kicad_reference: L
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_led_0201](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201/working)<br>[l](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201/working)<br>[Electronic
+    Led 0201](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201/working)<br><br>'
+markdown_short: '[electronic_led_0201](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201/working)<br><br>'
+md5: 734a19bea8740b6c233a98d84ee91ee7
+md5_10: 734a19bea8
+md5_10_upper: 734A19BEA8
+md5_5: 734a1
+md5_5_upper: 734A1
+md5_6: 734a19
+md5_6_upper: 734A19
+name: Electronic Led 0201
+oomp_key: oomp_electronic_led_0201
+part_number: ''
+short_code: l
+short_code_upper: L
+short_name: 0201 Led
+size: '0201'
+size_only_numbers: '0201'
+size_only_numbers_no_zeros: '21'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+    oomp_key: oomp_kicad_device_led
+type: led
+type_first_letter: l
+type_first_letter_upper: L
