@@ -1,0 +1,30 @@
+classification: electronic
+color: green
+description_extra: ''
+description_main: tinted
+directory: parts/electronic_led_0603_green_tinted
+distributors: []
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_0603_1608metric//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_0603_1608metric
+    oomp_key: oomp_kicad_led_smd_led_0603_1608metric
+from_yaml: false
+id: electronic_led_0603_green_tinted
+kicad_reference: L
+manufacturer: ''
+md5: 224a14188bd7132e2bb68d27fc72e995
+md5_10: 224a14188b
+md5_5: 224a1
+md5_6: 224a14
+name: Electronic Led 0603 Green Tinted
+oomp_key: oomp_electronic_led_0603_green_tinted
+part_number: ''
+short_code: l6gt
+short_name: 0603 Greentinted Led
+size: '0603'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+    oomp_key: oomp_kicad_device_led
+type: led

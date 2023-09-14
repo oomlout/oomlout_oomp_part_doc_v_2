@@ -1,0 +1,52 @@
+classification: electronic
+color: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_main: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/electronic_led_5_mm
+distributors: []
+filter: ''
+footprint:
+-   directory: oomlout_oomp_footprint_bot/footprints/kicad_led_tht_led_d5_0mm//working/working.kicad_mod
+    link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_tht_led_d5_0mm
+    oomp_key: oomp_kicad_led_tht_led_d5_0mm
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm/working
+id: electronic_led_5_mm
+id_no_class: led_5_mm
+id_no_type: 5_mm
+kicad_reference: L
+manufacturer: ''
+manufacturers: []
+markdown_full: '[electronic_led_5_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm/working)<br>[l5](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm/working)<br>[Electronic
+    Led 5 Mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm/working)<br><br>'
+markdown_short: '[electronic_led_5_mm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm/working)<br><br>'
+md5: 7297cd778d1471689ae0db398d716719
+md5_10: 7297cd778d
+md5_10_upper: 7297CD778D
+md5_5: 7297c
+md5_5_upper: 7297C
+md5_6: 7297cd
+md5_6_upper: 7297CD
+name: Electronic Led 5 Mm
+oomp_key: oomp_electronic_led_5_mm
+part_number: ''
+short_code: l5
+short_code_upper: L5
+short_name: 5 Mm Led
+size: 5_mm
+size_only_numbers: '5'
+size_only_numbers_no_zeros: '5'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_led
+    oomp_key: oomp_kicad_device_led
+type: led
+type_first_letter: l
+type_first_letter_upper: L
