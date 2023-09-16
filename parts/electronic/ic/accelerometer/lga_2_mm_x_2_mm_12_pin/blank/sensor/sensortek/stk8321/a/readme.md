@@ -39,7 +39,7 @@ List of Pins:
 
 ## footprint
 
-![](footprint/0/working/working_600.png)  
+![](footprint/{index}/working/working_600.png)  
 oomp_key: oomp_kicad_package_lga_lga_12_2x2mm_p0_5mm  
 link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints/kicad_package_lga_lga_12_2x2mm_p0_5mm/working  
 
@@ -125,4 +125,4 @@ link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/footprints
 | description_or_color_upper | S  | 
 | markdown_full | [electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321/working)<br>[ilg2x212psnastk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321/working)<br>[Electronic Ic Lga 2 Mm X 2 Mm 12 Pin Sensor Accelerometer Sensortek Stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321/working)<br>[LCSC - C966924<br>](https://lcsc.com/product-detail/C966924.html)<br>[Sensortek - STK8321](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/) [(L)  ](https://www.lcsc.com/search?q=STK8321)[(D)  ](https://www.digikey.com/en/products?keywords=STK8321)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=STK8321)[(N)  ](https://www.newark.com/search?st=STK8321)[(SZ)  ](https://so.szlcsc.com/global.html?k=STK8321)<br> | 
 | markdown_short | [electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_2_mm_x_2_mm_12_pin_sensor_accelerometer_sensortek_stk8321/working)<br>[LCSC - C966924<br>](https://lcsc.com/product-detail/C966924.html)<br>[Sensortek - STK8321](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/) | 
-| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_lga_lga_12_2x2mm_p0_5mm', 'oomp_key': 'oomp_kicad_package_lga_lga_12_2x2mm_p0_5mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_lga_lga_12_2x2mm_p0_5mm//working/working.kicad_mod'}] | 
+| footprint | [{'link': 'https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_lga_lga_12_2x2mm_p0_5mm', 'oomp_key': 'oomp_kicad_package_lga_lga_12_2x2mm_p0_5mm', 'directory': 'oomlout_oomp_footprint_bot/footprints/kicad_package_lga_lga_12_2x2mm_p0_5mm//working/working.kicad_mod', 'index': 0}] | 

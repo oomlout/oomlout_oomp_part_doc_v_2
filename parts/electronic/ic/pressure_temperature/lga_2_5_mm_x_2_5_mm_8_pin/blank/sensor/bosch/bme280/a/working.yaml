@@ -87,6 +87,11 @@ short_name: bosch sensortec bme280 pressure and temperature sensor
 size: lga_2_5_mm_x_2_5_mm_8_pin
 size_only_numbers: '25258'
 size_only_numbers_no_zeros: '25258'
+symbol:
+-   directory: oomlout_oomp_symbol_bot/symbols/kicad_sensor_bme280//working/working.kicad_sym
+    index: 0
+    link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_sensor_bme280
+    oomp_key: oomp_kicad_sensor_bme280
 type: ic
 type_first_letter: i
 type_first_letter_upper: I
