@@ -82,8 +82,8 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | name_no_size | 3 Pin Surface Mount | 
 | short_code | h3psm | 
 | short_code_upper | H3PSM | 
-| distributors | [] | 
-| manufacturers | [] | 
+| distributors | [<br>] | 
+| manufacturers | [<br>] | 
 | md5 | a043a5ee5d1f94bd5b1c12d133cfd898 | 
 | md5_5 | a043a | 
 | md5_5_upper | A043A | 
@@ -102,4 +102,4 @@ link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad
 | description_or_color_upper | 3 | 
 | markdown_full | [electronic_header_2_5_mm_jst_xh_3_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_surface_mount/working)<br>[h3psm](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_surface_mount/working)<br>[Electronic Header 2 5 Mm Jst Xh 3 Pin Surface Mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_surface_mount/working)<br><br> | 
 | markdown_short | [electronic_header_2_5_mm_jst_xh_3_pin_surface_mount](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_3_pin_surface_mount/working)<br><br> | 
-| symbol | [{'link': 'https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_connector_conn_01x03_pin', 'oomp_key': 'oomp_kicad_connector_conn_01x03_pin', 'directory': 'oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x03_pin//working/working.kicad_sym', 'index': 0}] | 
+| symbol | [<br>{<br>'<br>l<br>i<br>n<br>k<br>'<br>:<br> <br>'<br>h<br>t<br>t<br>p<br>s<br>:<br>/<br>/<br>g<br>i<br>t<br>h<br>u<br>b<br>.<br>c<br>o<br>m<br>/<br>o<br>o<br>m<br>l<br>o<br>u<br>t<br>/<br>o<br>o<br>m<br>l<br>o<br>u<br>t<br>_<br>o<br>o<br>m<br>p<br>_<br>s<br>y<br>m<br>b<br>o<br>l<br>_<br>b<br>o<br>t<br>/<br>t<br>r<br>e<br>e<br>/<br>m<br>a<br>i<br>n<br>/<br>s<br>y<br>m<br>b<br>o<br>l<br>s<br>/<br>k<br>i<br>c<br>a<br>d<br>_<br>c<br>o<br>n<br>n<br>e<br>c<br>t<br>o<br>r<br>_<br>c<br>o<br>n<br>n<br>_<br>0<br>1<br>x<br>0<br>3<br>_<br>p<br>i<br>n<br>'<br>,<br> <br>'<br>o<br>o<br>m<br>p<br>_<br>k<br>e<br>y<br>'<br>:<br> <br>'<br>o<br>o<br>m<br>p<br>_<br>k<br>i<br>c<br>a<br>d<br>_<br>c<br>o<br>n<br>n<br>e<br>c<br>t<br>o<br>r<br>_<br>c<br>o<br>n<br>n<br>_<br>0<br>1<br>x<br>0<br>3<br>_<br>p<br>i<br>n<br>'<br>,<br> <br>'<br>d<br>i<br>r<br>e<br>c<br>t<br>o<br>r<br>y<br>'<br>:<br> <br>'<br>o<br>o<br>m<br>l<br>o<br>u<br>t<br>_<br>o<br>o<br>m<br>p<br>_<br>s<br>y<br>m<br>b<br>o<br>l<br>_<br>b<br>o<br>t<br>/<br>s<br>y<br>m<br>b<br>o<br>l<br>s<br>/<br>k<br>i<br>c<br>a<br>d<br>_<br>c<br>o<br>n<br>n<br>e<br>c<br>t<br>o<br>r<br>_<br>c<br>o<br>n<br>n<br>_<br>0<br>1<br>x<br>0<br>3<br>_<br>p<br>i<br>n<br>/<br>/<br>w<br>o<br>r<br>k<br>i<br>n<br>g<br>/<br>w<br>o<br>r<br>k<br>i<br>n<br>g<br>.<br>k<br>i<br>c<br>a<br>d<br>_<br>s<br>y<br>m<br>'<br>,<br> <br>'<br>i<br>n<br>d<br>e<br>x<br>'<br>:<br> <br>0<br>}<br>] | 
